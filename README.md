@@ -45,5 +45,8 @@ This project demonstrates how Python-based data analysis can help summarize stud
    `pip install pandas numpy matplotlib seaborn jupyter`
 3. Open the notebook in Jupyter Notebook or VS Code.
 4. Run the cells in order.
+## Project Preview
+
+![Student Performance Chart](student_performance_chart.png)
 
 
