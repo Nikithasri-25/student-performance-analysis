@@ -55,5 +55,32 @@ This project demonstrates how Python-based data analysis can help summarize stud
 - **Other High Performers:** The next four students in the top five achieved average marks ranging from **92.33 to 94.33**.
 - **Grade Distribution:** Grade **B** was the most frequent grade, awarded to 178 students, followed by Grade C (155 students).
 - **Improvement Opportunity:** Mathematics had the lowest average score among the three subjects, suggesting that it may be worth examining where students need additional support.
+## Correlation Analysis
+
+The correlation heatmap helps identify relationships between students' scores in Mathematics, Science, and English.
+
+- **Positive correlation:** Students who score higher in one subject may also tend to score higher in another.
+- **Strong correlation:** Indicates a closer linear relationship between two subjects.
+- **Weak correlation:** Indicates a less pronounced linear relationship.
+
+This analysis can help identify patterns in subject performance and guide further investigation into students' academic results.
+## Project Structure
+
+```text
+student-performance-analysis/
+│
+├── student_analysis.ipynb          # Data analysis and visualizations
+├── student_data.csv                # Student dataset
+├── student_performance_chart.png   # Project chart preview
+└── README.md                       # Project documentation
+```
+
+## Technologies Used
+
+- **Python** – Data analysis
+- **Pandas and NumPy** – Data manipulation and numerical operations
+- **Matplotlib and Seaborn** – Data visualization
+- **Jupyter Notebook** – Interactive analysis
+- **Git and GitHub** – Version control and project hosting
 
 
