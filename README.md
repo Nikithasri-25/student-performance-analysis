@@ -46,5 +46,4 @@ This project demonstrates how Python-based data analysis can help summarize stud
 3. Open the notebook in Jupyter Notebook or VS Code.
 4. Run the cells in order.
 
-## Author
-Add your name or GitHub profile here.
+
