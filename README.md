@@ -82,5 +82,13 @@ student-performance-analysis/
 - **Matplotlib and Seaborn** – Data visualization
 - **Jupyter Notebook** – Interactive analysis
 - **Git and GitHub** – Version control and project hosting
+## Skills Demonstrated
 
+- **Data Cleaning:** Checking and handling missing or inconsistent data.
+- **Exploratory Data Analysis (EDA):** Understanding student score distributions and summary statistics.
+- **Data Manipulation:** Using Pandas to calculate total marks, average marks, and grades.
+- **Data Visualization:** Creating bar charts, box plots, and correlation heatmaps.
+- **Statistical Analysis:** Comparing average scores across Mathematics, Science, and English.
+- **Data Interpretation:** Identifying patterns in subject performance and communicating findings.
+- **Version Control:** Tracking project changes and publishing the project using Git and GitHub.
 
