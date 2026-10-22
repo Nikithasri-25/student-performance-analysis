@@ -48,5 +48,12 @@ This project demonstrates how Python-based data analysis can help summarize stud
 ## Project Preview
 
 ![Student Performance Chart](student_performance_chart.png)
+## Key Findings
+
+- **Subject Performance:** English had the highest average score at **72.16**, followed by Science at **70.30** and Mathematics at **68.44**.
+- **Top Performer:** Student **STU0276** achieved the highest average marks of **100.00**.
+- **Other High Performers:** The next four students in the top five achieved average marks ranging from **92.33 to 94.33**.
+- **Grade Distribution:** Grade **B** was the most frequent grade, awarded to 178 students, followed by Grade C (155 students).
+- **Improvement Opportunity:** Mathematics had the lowest average score among the three subjects, suggesting that it may be worth examining where students need additional support.
 
 
